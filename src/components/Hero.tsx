@@ -14,7 +14,7 @@ const Hero = () => {
     <section className="relative h-screen overflow-hidden bg-[#c4c4c4]">
       <div className="absolute inset-0 opacity-100">
         <img
-          src="/high-resolution-concrete-wall-textured-background-38968053.webp"
+          src="/CPMF4161-Neutral-Gray-Floordrop-p01_1600x.jpg"
           alt="Concrete Texture"
           className="w-full h-full object-cover"
         />
